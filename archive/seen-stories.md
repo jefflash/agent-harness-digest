@@ -7,8 +7,9 @@
 - https://releasebot.io/updates/anthropic/claude | Claude Updates by Anthropic - June 2026 (Cowork limits doubled)
 - https://github.com/openclaw/openclaw/releases/tag/v2026.6.1 | Release openclaw 2026.6.2-beta.1 — OpenClaw
 
-## 2026-06-07 (this run)
+## 2026-06-09
 
-- https://github.com/openclaw/openclaw/releases/tag/v2026.6.2 | OpenClaw 2026.6.2 — Reliability and Security Hardening
-- https://venturebeat.com/orchestration/nanoclaws-creators-are-turning-the-secure-open-source-ai-agent-harness-into-an-enterprise-second-brain | NanoClaw's creators are turning the secure, open source AI agent harness into an enterprise 'second brain' — VentureBeat
-- https://letsdatascience.com/news/openclaw-code-reuse-exposes-ai-agent-accountability-problem-49cf9a0b | OpenClaw Code Reuse Exposes AI Agent Accountability Problem — Let's Data Science
+- https://www.anthropic.com/news/claude-fable-5-mythos-5 | Claude Fable 5 and Claude Mythos 5 — Anthropic
+- https://techcrunch.com/2026/06/09/anthropic-released-claude-fable-5-its-most-powerful-model-publicly-days-after-warning-ai-is-getting-too-dangerous/ | Anthropic's Claude Fable 5 is a version of Mythos the public can access today — TechCrunch
+- https://venturebeat.com/technology/anthropic-brings-mythos-to-the-masses-with-claude-fable-5-its-most-powerful-generally-available-model-ever | Anthropic brings Mythos to the masses with Claude Fable 5 — VentureBeat
+- https://github.com/openclaw/openclaw/releases | OpenClaw 2026.6.5 Stable — OpenClaw
